@@ -45,3 +45,4 @@ Ecoleta is an App Mobile and Web used to people to find places to discard recycl
   $ cd mobile
   $ npm start
 ```
+
